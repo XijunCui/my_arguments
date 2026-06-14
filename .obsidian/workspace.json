@@ -189,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -198,8 +199,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b1916390c014cae",
+  "active": "bfe429a1c49dd591",
   "lastOpenFiles": [
+    "Untitled",
     "20260420_布拉格/attachments/弗拉迪斯拉夫大厅(Vladislav Hall).jpg",
     "20260420_布拉格/春天的布拉格.md",
     "20260420_布拉格/attachments/弗拉迪斯拉夫大厅(Vladislav Hall).jpg",
@@ -217,7 +219,6 @@
     "20260302_柏林/attachments/地图标记.md",
     "20251108_罗马/罗马假日（2）.md",
     "Pasted image 20260521212755.png.md",
-    "Untitled",
     "20251108_罗马/罗马假日（1）.md",
     "my_words",
     "20251108_罗马/attachments",
