@@ -189,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,8 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "bfe429a1c49dd591",
+  "active": "2b1916390c014cae",
   "lastOpenFiles": [
+    "20260119_雅典/desktop.ini",
+    "20260302_柏林/attachments/desktop.ini",
+    "20260302_柏林/desktop.ini",
+    "desktop.ini",
     "20260502_科隆/图片/科隆纳粹文献中心（National Socialism Documentation Center of the City of Cologne）.jpg",
     "20260502_科隆/科隆两千年.md",
     "20260502_科隆/图片/伊朗巴列维王朝支持者.jpg",
@@ -230,9 +233,6 @@
     "Pasted image 20260521212755.png.md",
     "20251108_罗马/罗马假日（1）.md",
     "my_words",
-    "20251108_罗马/attachments",
-    "20251108_罗马",
-    "20260420_布拉格/attachments",
     "伏尔塔瓦河畔.md",
     "查理大桥.md",
     "Untitled.canvas",
